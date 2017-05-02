@@ -11,5 +11,5 @@ npm-debug.log
 .env
 
 *.ftpconfig
-.remote-sync.json
 .env.example
+.remote-sync.json
