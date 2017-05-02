@@ -17,7 +17,7 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in!
+                    Information about the VM here!
                 </div>
             </div>
         </div>
